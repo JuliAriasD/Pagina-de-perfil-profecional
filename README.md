@@ -1,10 +1,7 @@
-﻿# ¡Hola, bienvenido a mi proyecto de portafolio!
-
- 
-
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
 
-![imagen](https://cdn1.gnarususercontent.com.br/6/450324/9facae6f-79bf-48f3-b3a9-b4f9284802d7.png)  
+ ![image](https://github.com/user-attachments/assets/a6b83a1d-9aeb-4fec-a108-bb4c26397b54)
+
 ## Herramientas utilizadas:
 
 * HTML
